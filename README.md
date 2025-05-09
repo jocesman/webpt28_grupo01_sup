@@ -2,4 +2,5 @@
 
 TA Jose Cespedes
 
-esta es una modificación
+Esta es una modificación, que no es la original, de la clase de ejemplo de la documentación de WebPT.
+
